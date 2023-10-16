@@ -1,0 +1,17 @@
+name: Update Activity
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  chess:
+    name: Update activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: cheesits456/github-activity-readme@16bd144b812ce901e0693fee5c36c02e75e6b4a7
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
