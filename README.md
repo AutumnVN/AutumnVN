@@ -169,7 +169,6 @@
 `[10/31 12:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1936`](https://github.com//Vendicated/Vencord/pull/1936 'textReplace: uh update ig') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[10/31 12:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`textreplace`](https://github.com/AutumnVN/Vencord/tree/textreplace) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[10/30 12:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
-`[10/30 06:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 
 </details>
 <!--END_SECTION:activity-->
