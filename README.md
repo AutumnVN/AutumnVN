@@ -13,6 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[12/12 13:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `34` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/12 13:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2051`](https://github.com//Vendicated/Vencord/pull/2051 'fakeNitro: fix app icon') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/12 13:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`appicon`](https://github.com/AutumnVN/Vencord/tree/appicon) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/12 02:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
@@ -22,10 +23,10 @@
 `[12/09 01:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/09 01:12]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2038`](https://github.com//Vendicated/Vencord/pull/2038 'platformIndicators: fix') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/09 01:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`platform`](https://github.com/AutumnVN/Vencord/tree/platform) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[12/07 04:59]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#33`](https://github.com//Vencord/vencord.dev/pull/33 'change cli installer method to drag it into powershell') in [Vencord/vencord.dev](https://github.com/Vencord/vencord.dev)  
 
 <details><summary>Show More</summary>
 
+`[12/07 04:59]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#33`](https://github.com//Vencord/vencord.dev/pull/33 'change cli installer method to drag it into powershell') in [Vencord/vencord.dev](https://github.com/Vencord/vencord.dev)  
 `[12/07 04:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`drag`](https://github.com/AutumnVN/vencord.dev/tree/drag) in [AutumnVN/vencord.dev](https://github.com/AutumnVN/vencord.dev)  
 `[12/07 04:57]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Vencord/vencord.dev](https://github.com/Vencord/vencord.dev) to [AutumnVN/vencord.dev](https://github.com/AutumnVN/vencord.dev)  
 `[12/07 01:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `botmessage` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
@@ -179,7 +180,7 @@
 `[11/01 06:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[11/01 04:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `34` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[11/01 04:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//AutumnVN/Vencord/pull/1 'Use discord checkboxes, add links to plugin description, allow non-merging imports') in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[11/01 03:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [skykittenpuppy/Vencord](https://github.com/skykittenpuppy/Vencord)  
+`[11/01 03:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [skykittenpuppy/Vencord](https://github.com/skykittenpuppy/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
