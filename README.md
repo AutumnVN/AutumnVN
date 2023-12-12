@@ -13,6 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[12/12 13:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`appicon`](https://github.com/AutumnVN/Vencord/tree/appicon) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/12 02:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[12/10 01:06]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `oneko` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/10 00:46]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `platform` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
@@ -22,10 +23,10 @@
 `[12/09 01:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`platform`](https://github.com/AutumnVN/Vencord/tree/platform) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/07 04:59]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#33`](https://github.com//Vencord/vencord.dev/pull/33 'change cli installer method to drag it into powershell') in [Vencord/vencord.dev](https://github.com/Vencord/vencord.dev)  
 `[12/07 04:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`drag`](https://github.com/AutumnVN/vencord.dev/tree/drag) in [AutumnVN/vencord.dev](https://github.com/AutumnVN/vencord.dev)  
-`[12/07 04:57]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Vencord/vencord.dev](https://github.com/Vencord/vencord.dev) to [AutumnVN/vencord.dev](https://github.com/AutumnVN/vencord.dev)  
 
 <details><summary>Show More</summary>
 
+`[12/07 04:57]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Vencord/vencord.dev](https://github.com/Vencord/vencord.dev) to [AutumnVN/vencord.dev](https://github.com/AutumnVN/vencord.dev)  
 `[12/07 01:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `botmessage` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/07 01:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2033`](https://github.com//Vendicated/Vencord/pull/2033 'fix createBotMessage') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/07 01:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`botmessage`](https://github.com/AutumnVN/Vencord/tree/botmessage) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
