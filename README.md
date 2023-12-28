@@ -13,6 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[12/28 02:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2076`](https://github.com//Vendicated/Vencord/pull/2076 'Allow toggling the message content replacement in SendTimestamps plugin') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/24 05:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2070`](https://github.com//Vendicated/Vencord/pull/2070 'petpet: fix /petpet image command') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/24 05:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`petpet`](https://github.com/AutumnVN/Vencord/tree/petpet) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/22 01:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
@@ -22,10 +23,10 @@
 `[12/14 01:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `45` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/13 02:05]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `appicon` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/12 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `35` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[12/12 13:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2051`](https://github.com//Vendicated/Vencord/pull/2051 'fakeNitro: fix app icon') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 
 <details><summary>Show More</summary>
 
+`[12/12 13:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2051`](https://github.com//Vendicated/Vencord/pull/2051 'fakeNitro: fix app icon') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/12 13:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`appicon`](https://github.com/AutumnVN/Vencord/tree/appicon) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/12 02:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[12/10 01:06]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `oneko` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
@@ -183,8 +184,6 @@
 `[11/02 03:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`nomosaic`](https://github.com/AutumnVN/Vencord/tree/nomosaic) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[11/01 10:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[11/01 09:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `140` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[11/01 08:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
-`[11/01 08:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
