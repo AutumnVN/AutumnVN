@@ -13,6 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[01/08 13:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`nomosaic`](https://github.com/AutumnVN/Vencord/tree/nomosaic) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[01/06 00:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[01/05 23:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1933`](https://github.com//Vendicated/Vencord/issues/1933 'TextReplace: allow replacing with nothing') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[01/04 00:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
@@ -22,10 +23,10 @@
 `[12/24 05:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`petpet`](https://github.com/AutumnVN/Vencord/tree/petpet) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/22 01:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/16 07:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `0` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
-`[12/16 00:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//AutumnVN/usrbg/issues/1 'i got hacked on discord and now banned') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 
 <details><summary>Show More</summary>
 
+`[12/16 00:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//AutumnVN/usrbg/issues/1 'i got hacked on discord and now banned') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 `[12/16 00:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//AutumnVN/usrbg/issues/1 'i got hacked on discord and now banned') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 `[12/14 01:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `45` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/13 02:05]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `appicon` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
@@ -182,7 +183,6 @@
 `[11/03 00:58]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gifpaste` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[11/03 00:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[11/02 10:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
-`[11/02 07:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1947`](https://github.com//Vendicated/Vencord/pull/1947 'gifPaste: fix unable to use gif picker in profile customization') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
