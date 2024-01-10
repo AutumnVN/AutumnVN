@@ -13,6 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[01/10 11:05]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2098`](https://github.com//Vendicated/Vencord/pull/2098 'roleColorEverywhere: thread role color (again)') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[01/10 10:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`rolecolor`](https://github.com/AutumnVN/Vencord/tree/rolecolor) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[01/08 23:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[01/08 13:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2095`](https://github.com//Vendicated/Vencord/pull/2095 'NoMosaic: make loading image works with responsive layout') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
@@ -22,10 +23,10 @@
 `[01/04 00:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/29 02:34]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2078`](https://github.com//Vendicated/Vencord/pull/2078 'ShowMeYourName: add streamer mode support') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/28 02:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2076`](https://github.com//Vendicated/Vencord/pull/2076 'Allow toggling the message content replacement in SendTimestamps plugin') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[12/24 05:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2070`](https://github.com//Vendicated/Vencord/pull/2070 'petpet: fix /petpet image command') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 
 <details><summary>Show More</summary>
 
+`[12/24 05:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2070`](https://github.com//Vendicated/Vencord/pull/2070 'petpet: fix /petpet image command') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/24 05:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`petpet`](https://github.com/AutumnVN/Vencord/tree/petpet) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/22 01:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/16 07:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `0` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
@@ -184,7 +185,6 @@
 `[11/03 01:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[11/03 00:58]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `nomosaic` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[11/03 00:58]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `gifpaste` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[11/03 00:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 
 </details>
 <!--END_SECTION:activity-->
