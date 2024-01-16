@@ -13,6 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[01/16 03:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[01/16 03:06]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `rolecolor` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[01/11 00:38]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#10751`](https://github.com//ppy/osu-wiki/pull/10751 '[VI] Reword and fix minor mistakes in `Help centre`') in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)  
 `[01/10 11:05]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2098`](https://github.com//Vendicated/Vencord/pull/2098 'roleColorEverywhere: thread role color (again)') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
@@ -22,10 +23,10 @@
 `[01/08 13:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`nomosaic`](https://github.com/AutumnVN/Vencord/tree/nomosaic) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[01/06 00:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[01/05 23:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1933`](https://github.com//Vendicated/Vencord/issues/1933 'TextReplace: allow replacing with nothing') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[01/04 00:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
 <details><summary>Show More</summary>
 
+`[01/04 00:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/29 02:34]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2078`](https://github.com//Vendicated/Vencord/pull/2078 'ShowMeYourName: add streamer mode support') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/28 02:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2076`](https://github.com//Vendicated/Vencord/pull/2076 'Allow toggling the message content replacement in SendTimestamps plugin') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/24 05:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2070`](https://github.com//Vendicated/Vencord/pull/2070 'petpet: fix /petpet image command') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
@@ -183,8 +184,6 @@
 `[11/03 04:15]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1948`](https://github.com//Vendicated/Vencord/pull/1948 'viewIcons: dont open image in small popout') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[11/03 04:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[11/03 04:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`viewicon`](https://github.com/AutumnVN/Vencord/tree/viewicon) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[11/03 03:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
-`[11/03 01:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
