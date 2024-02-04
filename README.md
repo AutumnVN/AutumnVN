@@ -13,6 +13,8 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[02/04 11:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
+`[02/04 11:58]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Miriel-py/Navi](https://github.com/Miriel-py/Navi) to [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
 `[02/04 10:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[02/04 02:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[01/16 05:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
@@ -21,11 +23,11 @@
 `[01/11 00:38]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#10751`](https://github.com//ppy/osu-wiki/pull/10751 '[VI] Reword and fix minor mistakes in `Help centre`') in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)  
 `[01/10 11:05]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2098`](https://github.com//Vendicated/Vencord/pull/2098 'roleColorEverywhere: thread role color (again)') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[01/10 10:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`rolecolor`](https://github.com/AutumnVN/Vencord/tree/rolecolor) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[01/08 23:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[01/08 13:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2095`](https://github.com//Vendicated/Vencord/pull/2095 'NoMosaic: make loading image works with responsive layout') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 
 <details><summary>Show More</summary>
 
+`[01/08 23:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
+`[01/08 13:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2095`](https://github.com//Vendicated/Vencord/pull/2095 'NoMosaic: make loading image works with responsive layout') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[01/08 13:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`nomosaic`](https://github.com/AutumnVN/Vencord/tree/nomosaic) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[01/06 00:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[01/05 23:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1933`](https://github.com//Vendicated/Vencord/issues/1933 'TextReplace: allow replacing with nothing') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
