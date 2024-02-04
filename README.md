@@ -175,12 +175,6 @@
 `[11/05 00:01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `favgif` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[11/05 00:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `viewicon` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[11/04 04:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
-`[11/04 03:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1955`](https://github.com//Vendicated/Vencord/pull/1955 'favGifSearch: fix search bar') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[11/04 03:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`favgif`](https://github.com/AutumnVN/Vencord/tree/favgif) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[11/04 03:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
-`[11/04 03:12]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1954`](https://github.com//Vendicated/Vencord/pull/1954 'fakeNitro: disallow emoji in add reaction') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[11/04 03:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`fakenitro`](https://github.com/AutumnVN/Vencord/tree/fakenitro) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[11/04 02:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 
 </details>
 <!--END_SECTION:activity-->
