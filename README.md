@@ -182,7 +182,6 @@
 `[11/04 03:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`fakenitro`](https://github.com/AutumnVN/Vencord/tree/fakenitro) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[11/04 02:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[11/03 11:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1949`](https://github.com//Vendicated/Vencord/pull/1949 'customRpc: fix discord attachment link') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[11/03 10:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`rpc`](https://github.com/AutumnVN/Vencord/tree/rpc) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
