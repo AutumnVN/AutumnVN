@@ -177,7 +177,6 @@
 `[11/05 00:01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `fakenitro` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[11/05 00:01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `favgif` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[11/05 00:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `viewicon` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[11/04 04:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 
 </details>
 <!--END_SECTION:activity-->
