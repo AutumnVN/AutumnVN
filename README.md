@@ -167,7 +167,6 @@
 `[11/06 10:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[11/06 03:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1961`](https://github.com//Vendicated/Vencord/pull/1961 'searchReply: fix') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[11/06 03:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`reply`](https://github.com/AutumnVN/Vencord/tree/reply) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[11/06 03:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
