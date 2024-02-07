@@ -164,7 +164,6 @@
 `[11/07 14:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/AutumnVN/highlight/tree/main) in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
 `[11/07 14:16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
 `[11/07 01:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
-`[11/06 12:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [486c/rosu-memory](https://github.com/486c/rosu-memory)  
 
 </details>
 <!--END_SECTION:activity-->
