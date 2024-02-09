@@ -153,7 +153,7 @@
 `[11/09 04:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`5edc940`](https://github.com/Vendicated/Vencord/commit/5edc94062c2940a415edb8d66fe9fb346b9cb4fb#commitcomment-132092792) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[11/09 03:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[11/09 01:38]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `reply` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[11/09 01:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
+`[11/09 01:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
 
 </details>
 <!--END_SECTION:activity-->
