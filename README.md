@@ -156,7 +156,6 @@
 `[11/09 01:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
 `[11/08 13:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[11/08 12:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
-`[11/08 09:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`shiki`](https://github.com/AutumnVN/highlight/tree/shiki) in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
 
 </details>
 <!--END_SECTION:activity-->
