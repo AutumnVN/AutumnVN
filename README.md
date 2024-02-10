@@ -139,12 +139,6 @@
 `[11/09 11:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[11/09 11:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[11/09 10:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
-`[11/09 09:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[11/09 09:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//AutumnVN/highlight/issues/1 'wryyy') in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
-`[11/09 09:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//AutumnVN/highlight/issues/1 'wryyy') in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
-`[11/09 09:18]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `shiki` from [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
-`[11/09 09:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
-`[11/09 09:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`hljs`](https://github.com/AutumnVN/highlight/tree/hljs) in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
 
 </details>
 <!--END_SECTION:activity-->
