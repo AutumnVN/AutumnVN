@@ -147,7 +147,6 @@
 `[11/09 09:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`hljs`](https://github.com/AutumnVN/highlight/tree/hljs) in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
 `[11/09 08:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
 `[11/09 07:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//AutumnVN/highlight/issues/1 'wryyy') in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
-`[11/09 07:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
 
 </details>
 <!--END_SECTION:activity-->
