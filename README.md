@@ -130,7 +130,6 @@
 `[11/12 02:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1975`](https://github.com//Vendicated/Vencord/pull/1975 '[Plugin] ReplyPingControl') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[11/12 01:35]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1960`](https://github.com//Vendicated/Vencord/pull/1960 '[Plugin] Keyword Notify') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[11/12 01:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
-`[11/11 13:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 
 </details>
 <!--END_SECTION:activity-->
