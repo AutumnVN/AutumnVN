@@ -121,11 +121,6 @@
 `[11/14 04:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[11/14 02:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[11/13 04:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/gosu-rich-presence](https://github.com/AutumnVN/gosu-rich-presence)  
-`[11/12 08:14]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1977`](https://github.com//Vendicated/Vencord/pull/1977 'shikiCodeBlocks: support file preview') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[11/12 08:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`shiki`](https://github.com/AutumnVN/Vencord/tree/shiki) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[11/12 05:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
-`[11/12 05:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
-`[11/12 03:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
 
 </details>
 <!--END_SECTION:activity-->
