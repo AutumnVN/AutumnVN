@@ -13,6 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[02/15 14:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2179`](https://github.com//Vendicated/Vencord/pull/2179 'remove my name from custom rpc') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[02/15 14:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`customrpc`](https://github.com/AutumnVN/Vencord/tree/customrpc) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[02/15 12:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[02/15 09:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
@@ -22,10 +23,10 @@
 `[02/04 11:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
 `[02/04 11:58]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Miriel-py/Navi](https://github.com/Miriel-py/Navi) to [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
 `[02/04 10:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
-`[02/04 02:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
 <details><summary>Show More</summary>
 
+`[02/04 02:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[01/16 05:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[01/16 03:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[01/16 03:06]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `rolecolor` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
