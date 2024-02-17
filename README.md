@@ -116,8 +116,6 @@
 `[11/17 07:59]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1669`](https://github.com//Vendicated/Vencord/pull/1669 'plugin(userVoiceShow): Add voice activity status icons in Member and DM list') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[11/17 07:59]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1669`](https://github.com//Vendicated/Vencord/pull/1669 'plugin(userVoiceShow): Add voice activity status icons in Member and DM list') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[11/17 06:34]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1960`](https://github.com//Vendicated/Vencord/pull/1960 '[Plugin] Keyword Notify') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[11/17 00:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
-`[11/17 00:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/loli](https://github.com/AutumnVN/loli)  
 
 </details>
 <!--END_SECTION:activity-->
