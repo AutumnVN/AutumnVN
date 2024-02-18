@@ -113,9 +113,6 @@
 `[11/18 10:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2000`](https://github.com//Vendicated/Vencord/pull/2000 'feat(plugin): CharCounter') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[11/18 05:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
 `[11/17 08:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1963`](https://github.com//Vendicated/Vencord/issues/1963 'Add NoSuperReactions plugin') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[11/17 07:59]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1669`](https://github.com//Vendicated/Vencord/pull/1669 'plugin(userVoiceShow): Add voice activity status icons in Member and DM list') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[11/17 07:59]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1669`](https://github.com//Vendicated/Vencord/pull/1669 'plugin(userVoiceShow): Add voice activity status icons in Member and DM list') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[11/17 06:34]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1960`](https://github.com//Vendicated/Vencord/pull/1960 '[Plugin] Keyword Notify') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
