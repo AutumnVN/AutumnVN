@@ -110,7 +110,6 @@
 `[11/21 02:30]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1611`](https://github.com//Vendicated/Vencord/pull/1611 'feat(plugin): Stickers+') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[11/21 02:30]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1611`](https://github.com//Vendicated/Vencord/pull/1611 'feat(plugin): Stickers+') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[11/21 01:52]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2000`](https://github.com//Vendicated/Vencord/pull/2000 'feat(plugin): CharCounter') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[11/20 12:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 
 </details>
 <!--END_SECTION:activity-->
