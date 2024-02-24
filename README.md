@@ -13,7 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
-`[02/24 06:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
+`[02/24 06:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
 `[02/20 02:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[02/16 07:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `62` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[02/15 14:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2179`](https://github.com//Vendicated/Vencord/pull/2179 'remove my name from custom rpc') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
