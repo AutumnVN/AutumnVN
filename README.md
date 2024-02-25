@@ -99,10 +99,6 @@
 `[11/25 01:21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#10538`](https://github.com//ppy/osu-wiki/pull/10538 '[VI] Update `Contribution_guide/Best_practices`') in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)  
 `[11/25 01:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#10537`](https://github.com//ppy/osu-wiki/pull/10537 '[VI] Rename "Support Team" to "Technical Support Team"') in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)  
 `[11/25 01:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/osu-wiki](https://github.com/AutumnVN/osu-wiki)  
-`[11/25 01:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`bestpractice`](https://github.com/AutumnVN/osu-wiki/tree/bestpractice) in [AutumnVN/osu-wiki](https://github.com/AutumnVN/osu-wiki)  
-`[11/25 01:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/osu-wiki](https://github.com/AutumnVN/osu-wiki)  
-`[11/25 01:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`technical`](https://github.com/AutumnVN/osu-wiki/tree/technical) in [AutumnVN/osu-wiki](https://github.com/AutumnVN/osu-wiki)  
-`[11/25 01:11]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ppy/osu-wiki](https://github.com/ppy/osu-wiki) to [AutumnVN/osu-wiki](https://github.com/AutumnVN/osu-wiki)  
 
 </details>
 <!--END_SECTION:activity-->
