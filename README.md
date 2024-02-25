@@ -95,10 +95,6 @@
 `[11/27 01:33]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2018`](https://github.com//Vendicated/Vencord/pull/2018 'oneko: allow oneko in reduced motion') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[11/27 01:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`oneko`](https://github.com/AutumnVN/Vencord/tree/oneko) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[11/26 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
-`[11/25 01:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[11/25 01:21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#10538`](https://github.com//ppy/osu-wiki/pull/10538 '[VI] Update `Contribution_guide/Best_practices`') in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)  
-`[11/25 01:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#10537`](https://github.com//ppy/osu-wiki/pull/10537 '[VI] Rename "Support Team" to "Technical Support Team"') in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)  
-`[11/25 01:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/osu-wiki](https://github.com/AutumnVN/osu-wiki)  
 
 </details>
 <!--END_SECTION:activity-->
