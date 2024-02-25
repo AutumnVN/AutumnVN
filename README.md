@@ -103,7 +103,6 @@
 `[11/25 01:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/osu-wiki](https://github.com/AutumnVN/osu-wiki)  
 `[11/25 01:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`technical`](https://github.com/AutumnVN/osu-wiki/tree/technical) in [AutumnVN/osu-wiki](https://github.com/AutumnVN/osu-wiki)  
 `[11/25 01:11]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ppy/osu-wiki](https://github.com/ppy/osu-wiki) to [AutumnVN/osu-wiki](https://github.com/AutumnVN/osu-wiki)  
-`[11/24 13:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/AutumnVN](https://github.com/AutumnVN/AutumnVN)  
 
 </details>
 <!--END_SECTION:activity-->
