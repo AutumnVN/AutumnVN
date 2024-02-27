@@ -94,7 +94,7 @@
 `[11/28 13:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[11/27 01:33]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2018`](https://github.com//Vendicated/Vencord/pull/2018 'oneko: allow oneko in reduced motion') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[11/27 01:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`oneko`](https://github.com/AutumnVN/Vencord/tree/oneko) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[11/26 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
+`[11/26 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 
 </details>
 <!--END_SECTION:activity-->
