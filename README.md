@@ -89,7 +89,6 @@
 `[12/03 00:57]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2026`](https://github.com//Vendicated/Vencord/pull/2026 'devCompanion: add findComponentByCode') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/03 00:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`devcomp`](https://github.com/AutumnVN/Vencord/tree/devcomp) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/02 09:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
-`[12/01 08:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 
 </details>
 <!--END_SECTION:activity-->
