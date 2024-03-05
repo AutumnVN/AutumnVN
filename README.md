@@ -88,7 +88,6 @@
 `[12/06 07:51]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `technical` from [AutumnVN/osu-wiki](https://github.com/AutumnVN/osu-wiki)  
 `[12/06 07:51]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `bestpractice` from [AutumnVN/osu-wiki](https://github.com/AutumnVN/osu-wiki)  
 `[12/05 05:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
-`[12/04 09:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 
 </details>
 <!--END_SECTION:activity-->
