@@ -78,9 +78,6 @@
 `[12/09 01:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/09 01:12]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2038`](https://github.com//Vendicated/Vencord/pull/2038 'platformIndicators: fix') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/09 01:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`platform`](https://github.com/AutumnVN/Vencord/tree/platform) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[12/07 04:59]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#33`](https://github.com//Vencord/vencord.dev/pull/33 'change cli installer method to drag it into powershell') in [Vencord/vencord.dev](https://github.com/Vencord/vencord.dev)  
-`[12/07 04:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`drag`](https://github.com/AutumnVN/vencord.dev/tree/drag) in [AutumnVN/vencord.dev](https://github.com/AutumnVN/vencord.dev)  
-`[12/07 04:57]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Vencord/vencord.dev](https://github.com/Vencord/vencord.dev) to [AutumnVN/vencord.dev](https://github.com/AutumnVN/vencord.dev)  
 
 </details>
 <!--END_SECTION:activity-->
