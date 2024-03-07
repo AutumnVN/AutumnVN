@@ -84,9 +84,6 @@
 `[12/07 01:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `botmessage` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/07 01:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2033`](https://github.com//Vendicated/Vencord/pull/2033 'fix createBotMessage') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/07 01:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`botmessage`](https://github.com/AutumnVN/Vencord/tree/botmessage) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[12/07 00:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
-`[12/07 00:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `shiki` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[12/07 00:03]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `devcomp` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
