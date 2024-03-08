@@ -13,6 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[03/08 00:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[03/07 13:20]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `customrpc` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/07 12:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/05 05:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/AutumnVN/flowabot/tree/master) in [AutumnVN/flowabot](https://github.com/AutumnVN/flowabot)  
@@ -22,10 +23,10 @@
 `[03/03 14:42]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2231`](https://github.com//Vendicated/Vencord/pull/2231 'CustomRPC: change timestamp to milisecond') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[03/03 14:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/03 14:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`customrpc`](https://github.com/AutumnVN/Vencord/tree/customrpc) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[03/03 07:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
 
 <details><summary>Show More</summary>
 
+`[03/03 07:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
 `[03/02 13:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KotRikD/tosu](https://github.com/KotRikD/tosu)  
 `[03/02 11:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
 `[03/02 02:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
