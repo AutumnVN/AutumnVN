@@ -79,9 +79,6 @@
 `[12/10 01:06]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `oneko` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/10 00:46]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `platform` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/09 10:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2039`](https://github.com//Vendicated/Vencord/issues/2039 'feat(plugin): blurs all images and videos until hovered') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[12/09 01:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[12/09 01:12]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2038`](https://github.com//Vendicated/Vencord/pull/2038 'platformIndicators: fix') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[12/09 01:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`platform`](https://github.com/AutumnVN/Vencord/tree/platform) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
