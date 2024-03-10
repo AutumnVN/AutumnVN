@@ -13,7 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
-`[03/10 08:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
+`[03/10 09:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
 `[03/08 05:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/08 00:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[03/07 13:20]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `customrpc` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
