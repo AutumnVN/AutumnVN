@@ -77,7 +77,6 @@
 `[12/12 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `35` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[12/12 13:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2051`](https://github.com//Vendicated/Vencord/pull/2051 'fakeNitro: fix app icon') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/12 13:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`appicon`](https://github.com/AutumnVN/Vencord/tree/appicon) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[12/12 02:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 
 </details>
 <!--END_SECTION:activity-->
