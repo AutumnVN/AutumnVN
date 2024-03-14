@@ -73,7 +73,6 @@
 `[12/16 07:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `0` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[12/16 00:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//AutumnVN/usrbg/issues/1 'i got hacked on discord and now banned') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 `[12/16 00:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//AutumnVN/usrbg/issues/1 'i got hacked on discord and now banned') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
-`[12/14 01:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `45` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
