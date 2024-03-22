@@ -86,7 +86,6 @@
 `[12/28 02:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2076`](https://github.com//Vendicated/Vencord/pull/2076 'Allow toggling the message content replacement in SendTimestamps plugin') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/24 05:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2070`](https://github.com//Vendicated/Vencord/pull/2070 'petpet: fix /petpet image command') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[12/24 05:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`petpet`](https://github.com/AutumnVN/Vencord/tree/petpet) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[12/22 01:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
