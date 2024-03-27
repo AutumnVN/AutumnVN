@@ -13,6 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[03/27 00:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
 `[03/24 05:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[03/24 05:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`temp/upload-manifest/206043361-1711257520`](https://github.com/AutumnVN/userplugins/tree/temp/upload-manifest/206043361-1711257520) in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[03/24 05:19]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `temp/upload-manifest/206043361-1711257520` from [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
@@ -22,10 +23,10 @@
 `[03/17 23:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
 `[03/16 23:58]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `emotecloner` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/16 15:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
-`[03/16 13:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 
 <details><summary>Show More</summary>
 
+`[03/16 13:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[03/16 13:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/AutumnVN/autumn/tree/main) in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
 `[03/16 13:38]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [AutumnVN/loli](https://github.com/AutumnVN/loli)  
 `[03/16 13:38]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`old`](https://github.com/AutumnVN/loli/tree/old) in [AutumnVN/loli](https://github.com/AutumnVN/loli)  
