@@ -13,6 +13,8 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[03/28 14:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
+`[03/28 14:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/28 13:17]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `trust` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/28 12:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/28 12:03]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2310`](https://github.com//Vendicated/Vencord/pull/2310 'fix AlwaysTrust') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
@@ -21,11 +23,11 @@
 `[03/28 04:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/28 03:56]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2306`](https://github.com//Vendicated/Vencord/pull/2306 'fix ImageZoom, LoadingQuote, NoRPC, RevealAllSpoilers, SecretRingTone') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[03/28 03:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`fixes`](https://github.com/AutumnVN/Vencord/tree/fixes) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[03/28 03:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[03/28 03:28]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `msgeventapi` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
 <details><summary>Show More</summary>
 
+`[03/28 03:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
+`[03/28 03:28]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `msgeventapi` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/28 03:28]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2305`](https://github.com//Vendicated/Vencord/pull/2305 'fix MessageEventsAPI') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[03/28 03:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `176` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/28 03:03]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2305`](https://github.com//Vendicated/Vencord/pull/2305 'fix MessageEventsAPI') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
