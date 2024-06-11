@@ -129,7 +129,7 @@
 
           <div>
             <span class="progress">
-              <span style="background-color: #3178c6;width: 32.845%;" class="progress-item"></span><span style="background-color: #b07219;width: 19.395%;" class="progress-item"></span><span style="background-color: #e34c26;width: 14.813%;" class="progress-item"></span><span style="background-color: #563d7c;width: 13.249%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 11.547%;" class="progress-item"></span><span style="background-color: #3572A5;width: 8.151%;" class="progress-item"></span>
+              <span style="background-color: #3178c6;width: 32.874%;" class="progress-item"></span><span style="background-color: #b07219;width: 19.387%;" class="progress-item"></span><span style="background-color: #e34c26;width: 14.806%;" class="progress-item"></span><span style="background-color: #563d7c;width: 13.243%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 11.542%;" class="progress-item"></span><span style="background-color: #3572A5;width: 8.147%;" class="progress-item"></span>
             </span>
           </div>
 
@@ -140,7 +140,7 @@
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">32.85%</span>
+<span class="percent">32.87%</span>
 </li>
 
 
@@ -167,7 +167,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">CSS</span>
-<span class="percent">13.25%</span>
+<span class="percent">13.24%</span>
 </li>
 
 
@@ -176,7 +176,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">11.55%</span>
+<span class="percent">11.54%</span>
 </li>
 
 
