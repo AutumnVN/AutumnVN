@@ -175,12 +175,6 @@
 `[03/16 10:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/16 10:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`emotecloner`](https://github.com/AutumnVN/Vencord/tree/emotecloner) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/15 13:27]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `old` from [AutumnVN/flowabot](https://github.com/AutumnVN/flowabot)  
-`[03/15 12:25]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main3` from [AutumnVN/chino.webp](https://github.com/AutumnVN/chino.webp)  
-`[03/15 12:25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/AutumnVN/chino.webp/tree/main) in [AutumnVN/chino.webp](https://github.com/AutumnVN/chino.webp)  
-`[03/15 12:25]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main2` from [AutumnVN/chino.webp](https://github.com/AutumnVN/chino.webp)  
-`[03/15 12:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main3`](https://github.com/AutumnVN/chino.webp/tree/main3) in [AutumnVN/chino.webp](https://github.com/AutumnVN/chino.webp)  
-`[03/15 12:23]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [AutumnVN/chino.webp](https://github.com/AutumnVN/chino.webp)  
-`[03/15 12:23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main2`](https://github.com/AutumnVN/chino.webp/tree/main2) in [AutumnVN/chino.webp](https://github.com/AutumnVN/chino.webp)  
 
 </details>
 <!--END_SECTION:activity-->
