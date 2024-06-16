@@ -174,7 +174,6 @@
 `[03/16 10:58]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2268`](https://github.com//Vendicated/Vencord/pull/2268 'emoteCloner: fix clone gif sticker') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[03/16 10:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/16 10:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`emotecloner`](https://github.com/AutumnVN/Vencord/tree/emotecloner) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[03/15 13:27]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `old` from [AutumnVN/flowabot](https://github.com/AutumnVN/flowabot)  
 
 </details>
 <!--END_SECTION:activity-->
