@@ -13,6 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[06/20 01:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[06/19 02:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[06/19 01:46]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `usrbg` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[06/19 01:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2593`](https://github.com//Vendicated/Vencord/pull/2593 'doomsday fix: USRBG') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
@@ -22,10 +23,10 @@
 `[06/11 01:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 `[06/09 00:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//AutumnVN/usrbg/issues/5 'got banned from the server (got hacked overnight??? idk)') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 `[06/09 00:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5`](https://github.com//AutumnVN/usrbg/issues/5 'got banned from the server (got hacked overnight??? idk)') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
-`[06/09 00:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [AutumnVN/AutumnVN](https://github.com/AutumnVN/AutumnVN)  
 
 <details><summary>Show More</summary>
 
+`[06/09 00:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [AutumnVN/AutumnVN](https://github.com/AutumnVN/AutumnVN)  
 `[06/08 06:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[06/08 05:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/AutumnVN](https://github.com/AutumnVN/AutumnVN)  
 `[06/08 04:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
