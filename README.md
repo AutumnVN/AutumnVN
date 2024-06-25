@@ -167,9 +167,6 @@
 `[03/28 03:03]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2305`](https://github.com//Vendicated/Vencord/pull/2305 'fix MessageEventsAPI') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[03/28 03:00]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`msgeventapi`](https://github.com/AutumnVN/Vencord/tree/msgeventapi) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/27 23:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
-`[03/24 05:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
-`[03/24 05:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`temp/upload-manifest/206043361-1711257520`](https://github.com/AutumnVN/userplugins/tree/temp/upload-manifest/206043361-1711257520) in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
-`[03/24 05:19]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `temp/upload-manifest/206043361-1711257520` from [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 
 </details>
 <!--END_SECTION:activity-->
