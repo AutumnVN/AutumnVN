@@ -155,8 +155,6 @@
 `[03/28 14:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/28 13:17]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `trust` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[03/28 12:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[03/28 12:03]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2310`](https://github.com//Vendicated/Vencord/pull/2310 'fix AlwaysTrust') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[03/28 12:01]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`trust`](https://github.com/AutumnVN/Vencord/tree/trust) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
