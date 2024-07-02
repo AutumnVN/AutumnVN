@@ -13,6 +13,9 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[07/02 10:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3`](https://github.com//AutumnVN/userplugins/issues/3 'also can you make a vencord version of the BD plugin PurgeMemory2') in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
+`[07/02 10:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//AutumnVN/userplugins/issues/2 'screen record plugin doesn\'t show in plugins and did pnpm build and all other plugins are showing') in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
+`[07/02 10:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//AutumnVN/userplugins/issues/2 'screen record plugin doesn\'t show in plugins and did pnpm build and all other plugins are showing') in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[07/02 03:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[07/01 13:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[07/01 10:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
@@ -20,12 +23,12 @@
 `[07/01 03:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[06/29 15:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
 `[06/29 13:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
-`[06/29 12:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
-`[06/29 10:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
-`[06/29 05:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 
 <details><summary>Show More</summary>
 
+`[06/29 12:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
+`[06/29 10:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
+`[06/29 05:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[06/29 03:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[06/27 11:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[06/23 00:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `36` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
