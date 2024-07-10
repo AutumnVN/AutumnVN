@@ -13,6 +13,19 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[07/10 08:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒AutumnVN/igdl`</span>  
+`[07/10 08:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/highlight](https://github.com/AutumnVN/highlight)  
+`[07/10 08:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒AutumnVN/igdl`</span>  
+`[07/10 08:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `47` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
+`[07/10 07:49]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `old` from [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
+`[07/10 07:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
+`[07/10 07:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
+`[07/10 07:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
+`[07/10 07:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
+`[07/10 07:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒AutumnVN/igdl`</span>  
+
+<details><summary>Show More</summary>
+
 `[07/10 06:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/AutumnVN](https://github.com/AutumnVN/AutumnVN)  
 `[07/10 02:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒AutumnVN/igdl`</span>  
 `[07/06 07:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
@@ -23,9 +36,6 @@
 `[07/02 11:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#4`](https://github.com//AutumnVN/userplugins/issues/4 'why do you say to use vesktop') in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[07/02 11:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//AutumnVN/userplugins/issues/2 'screen record plugin doesn\'t show in plugins and did pnpm build and all other plugins are showing') in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[07/02 10:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3`](https://github.com//AutumnVN/userplugins/issues/3 'also can you make a vencord version of the BD plugin PurgeMemory2') in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
-
-<details><summary>Show More</summary>
-
 `[07/02 10:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//AutumnVN/userplugins/issues/2 'screen record plugin doesn\'t show in plugins and did pnpm build and all other plugins are showing') in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[07/02 10:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//AutumnVN/userplugins/issues/2 'screen record plugin doesn\'t show in plugins and did pnpm build and all other plugins are showing') in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[07/02 03:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
