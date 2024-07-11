@@ -13,6 +13,8 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[07/11 00:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
+`[07/10 23:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[07/10 13:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6`](https://github.com//AutumnVN/usrbg/issues/6 'The discord USRBG plugin does not work.') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 `[07/10 13:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6`](https://github.com//AutumnVN/usrbg/issues/6 'The discord USRBG plugin does not work.') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 `[07/10 13:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6`](https://github.com//AutumnVN/usrbg/issues/6 'The discord USRBG plugin does not work.') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
@@ -21,11 +23,11 @@
 `[07/10 12:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6`](https://github.com//AutumnVN/usrbg/issues/6 'The discord USRBG plugin does not work.') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 `[07/10 12:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6`](https://github.com//AutumnVN/usrbg/issues/6 'The discord USRBG plugin does not work.') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 `[07/10 11:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6`](https://github.com//AutumnVN/usrbg/issues/6 'The discord USRBG plugin does not work.') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
-`[07/10 10:42]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
-`[07/10 10:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/osu-igdl](https://github.com/AutumnVN/osu-igdl)  
 
 <details><summary>Show More</summary>
 
+`[07/10 10:42]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
+`[07/10 10:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/osu-igdl](https://github.com/AutumnVN/osu-igdl)  
 `[07/10 10:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/AutumnVN/osu-igdl/tree/main) in [AutumnVN/osu-igdl](https://github.com/AutumnVN/osu-igdl)  
 `[07/10 10:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
 `[07/10 10:25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [AutumnVN/osu-igdl](https://github.com/AutumnVN/osu-igdl)  
@@ -178,9 +180,6 @@
 `[04/16 14:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`pip`](https://github.com/AutumnVN/Vencord/tree/pip) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[04/16 02:36]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2356`](https://github.com//Vendicated/Vencord/pull/2356 'roleColorEverywhere: fix voice name') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[04/16 02:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`rce`](https://github.com/AutumnVN/Vencord/tree/rce) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[04/14 00:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[04/13 23:53]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `viewicon` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[04/13 01:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2351`](https://github.com//Vendicated/Vencord/pull/2351 'viewIcons: fix banner') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
