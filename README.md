@@ -13,6 +13,9 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[07/24 04:05]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7`](https://github.com//darkchii/score-inspector-extension/pull/7 'fix daily challenge breaks layout') in [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension)  
+`[07/24 04:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/score-inspector-extension](https://github.com/AutumnVN/score-inspector-extension)  
+`[07/24 04:01]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension) to [AutumnVN/score-inspector-extension](https://github.com/AutumnVN/score-inspector-extension)  
 `[07/20 12:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension)  
 `[07/20 03:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[07/14 10:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
@@ -20,12 +23,12 @@
 `[07/14 04:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[07/13 14:30]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`04dce64`](https://github.com/Vendicated/Vencord/commit/04dce64bfd404900930839508b7bd9e4a0d0a7a1#r144208608) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[07/13 13:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/osu-igdl](https://github.com/AutumnVN/osu-igdl)  
-`[07/13 05:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
-`[07/11 04:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/osu-igdl](https://github.com/AutumnVN/osu-igdl)  
-`[07/11 00:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 
 <details><summary>Show More</summary>
 
+`[07/13 05:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
+`[07/11 04:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/osu-igdl](https://github.com/AutumnVN/osu-igdl)  
+`[07/11 00:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[07/10 23:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[07/10 13:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6`](https://github.com//AutumnVN/usrbg/issues/6 'The discord USRBG plugin does not work.') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 `[07/10 13:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6`](https://github.com//AutumnVN/usrbg/issues/6 'The discord USRBG plugin does not work.') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
@@ -176,8 +179,6 @@
 `[04/24 07:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[04/24 04:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[04/24 03:27]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `mani` from [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[04/24 03:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1708` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[04/24 02:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`mani`](https://github.com/AutumnVN/Vencord/tree/mani) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
