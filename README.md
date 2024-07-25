@@ -178,7 +178,6 @@
 `[04/27 03:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/AutumnVN/bot/tree/main) in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[04/27 03:48]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[04/26 07:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
-`[04/24 23:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
