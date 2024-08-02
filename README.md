@@ -174,7 +174,6 @@
 `[05/02 14:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1671`](https://github.com//Vendicated/Vencord/pull/1671 'feat(plugin): BetterJoinedDate') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[05/02 14:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1936`](https://github.com//Vendicated/Vencord/pull/1936 'textReplace: uh update ig') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[05/02 03:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
-`[05/02 01:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
