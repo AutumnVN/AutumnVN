@@ -169,7 +169,6 @@
 `[05/06 13:15]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [D3SOX/vencord-userplugins](https://github.com/D3SOX/vencord-userplugins) to [AutumnVN/d3sox-vc](https://github.com/AutumnVN/d3sox-vc)  
 `[05/05 09:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[05/04 13:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
-`[05/03 08:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 
 </details>
 <!--END_SECTION:activity-->
