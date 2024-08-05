@@ -13,6 +13,9 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[08/05 03:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
+`[08/05 01:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`69b13bc`](https://github.com/darkchii/score-inspector-extension/commit/69b13bcb827c36dd5b3a5ee7de93f1d316d816db#commitcomment-145021649) in [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension)  
+`[08/05 00:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`ebe6550`](https://github.com/darkchii/score-inspector-extension/commit/ebe6550cecdf74c63a612fb15f8814a76091aa4e#r145021523) in [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension)  
 `[08/04 13:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`69b13bc`](https://github.com/darkchii/score-inspector-extension/commit/69b13bcb827c36dd5b3a5ee7de93f1d316d816db#commitcomment-145014179) in [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension)  
 `[08/04 11:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[08/03 10:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
@@ -20,12 +23,12 @@
 `[07/28 02:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/tosu-overlay](https://github.com/AutumnVN/tosu-overlay)  
 `[07/26 12:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/osu-ubu](https://github.com/AutumnVN/osu-ubu)  
 `[07/26 12:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/AutumnVN/osu-ubu/tree/main) in [AutumnVN/osu-ubu](https://github.com/AutumnVN/osu-ubu)  
-`[07/26 12:02]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [AutumnVN/osu-ubu](https://github.com/AutumnVN/osu-ubu)  
-`[07/26 00:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [AutumnVN/score-inspector-extension](https://github.com/AutumnVN/score-inspector-extension)  
-`[07/26 00:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#10`](https://github.com//darkchii/score-inspector-extension/issues/10 'fix double run()') in [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension)  
 
 <details><summary>Show More</summary>
 
+`[07/26 12:02]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [AutumnVN/osu-ubu](https://github.com/AutumnVN/osu-ubu)  
+`[07/26 00:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [AutumnVN/score-inspector-extension](https://github.com/AutumnVN/score-inspector-extension)  
+`[07/26 00:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#10`](https://github.com//darkchii/score-inspector-extension/issues/10 'fix double run()') in [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension)  
 `[07/25 03:57]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#10`](https://github.com//darkchii/score-inspector-extension/pull/10 'fix double run()') in [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension)  
 `[07/25 03:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/score-inspector-extension](https://github.com/AutumnVN/score-inspector-extension)  
 `[07/25 03:32]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension) to [AutumnVN/score-inspector-extension](https://github.com/AutumnVN/score-inspector-extension)  
@@ -168,8 +171,7 @@
 `[05/06 13:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `115` commits in [AutumnVN/d3sox-vc](https://github.com/AutumnVN/d3sox-vc)  
 `[05/06 13:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`showall`](https://github.com/AutumnVN/d3sox-vc/tree/showall) in [AutumnVN/d3sox-vc](https://github.com/AutumnVN/d3sox-vc)  
 `[05/06 13:15]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [D3SOX/vencord-userplugins](https://github.com/D3SOX/vencord-userplugins) to [AutumnVN/d3sox-vc](https://github.com/AutumnVN/d3sox-vc)  
-`[05/05 09:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
-`[05/04 13:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
+`[05/05 09:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 
 </details>
 <!--END_SECTION:activity-->
