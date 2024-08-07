@@ -168,10 +168,6 @@
 `[05/14 23:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//AutumnVN/usrbg/issues/2 'I got banned from the BlackBox discord server') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 `[05/13 10:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[05/10 10:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
-`[05/06 13:23]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#31`](https://github.com//D3SOX/vencord-userplugins/pull/31 'show all activities') in [D3SOX/vencord-userplugins](https://github.com/D3SOX/vencord-userplugins)  
-`[05/06 13:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `115` commits in [AutumnVN/d3sox-vc](https://github.com/AutumnVN/d3sox-vc)  
-`[05/06 13:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`showall`](https://github.com/AutumnVN/d3sox-vc/tree/showall) in [AutumnVN/d3sox-vc](https://github.com/AutumnVN/d3sox-vc)  
-`[05/06 13:15]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [D3SOX/vencord-userplugins](https://github.com/D3SOX/vencord-userplugins) to [AutumnVN/d3sox-vc](https://github.com/AutumnVN/d3sox-vc)  
 
 </details>
 <!--END_SECTION:activity-->
