@@ -170,7 +170,7 @@
 `[05/18 02:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
 `[05/14 23:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//AutumnVN/usrbg/issues/2 'I got banned from the BlackBox discord server') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 `[05/14 23:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//AutumnVN/usrbg/issues/2 'I got banned from the BlackBox discord server') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
-`[05/13 10:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
+`[05/13 10:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 
 </details>
 <!--END_SECTION:activity-->
