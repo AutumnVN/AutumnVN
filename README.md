@@ -169,7 +169,7 @@
 `[05/22 14:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[05/21 10:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
 `[05/20 14:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
-`[05/18 02:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
+`[05/18 02:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
 
 </details>
 <!--END_SECTION:activity-->
