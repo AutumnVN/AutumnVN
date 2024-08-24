@@ -163,8 +163,6 @@
 `[05/24 15:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[05/24 15:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2503`](https://github.com//Vendicated/Vencord/pull/2503 'FakeNitro: Fix attempting to bypass unicode emojis') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[05/24 14:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`fakenitro`](https://github.com/AutumnVN/veeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeecord/tree/fakenitro) in [AutumnVN/veeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeecord](https://github.com/AutumnVN/veeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeecord)  
-`[05/24 02:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#4`](https://github.com//AutumnVN/usrbg/pull/4 'Little improvements') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
-`[05/24 02:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 
 </details>
 <!--END_SECTION:activity-->
