@@ -157,7 +157,6 @@
 `[06/06 02:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`usrbg`](https://github.com/AutumnVN/Vencord/tree/usrbg) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[06/06 02:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[06/05 15:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
-`[06/05 11:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//AutumnVN/userplugins/issues/1 '[VencordRPC] Plugin doesn\'t work') in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 
 </details>
 <!--END_SECTION:activity-->
