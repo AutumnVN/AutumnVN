@@ -13,7 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
-`[09/08 05:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
+`[09/09 03:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[09/04 23:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#16`](https://github.com//darkchii/score-inspector-extension/issues/16 'daily challenge is now hidden if there is no play') in [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension)  
 `[09/04 10:53]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#16`](https://github.com//darkchii/score-inspector-extension/issues/16 'daily challenge is now hidden if there is no play') in [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension)  
 `[09/02 12:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
@@ -128,9 +128,6 @@
 `[06/19 01:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`usrbg`](https://github.com/AutumnVN/Vencord/tree/usrbg) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[06/16 03:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[06/11 01:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
-`[06/09 00:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//AutumnVN/usrbg/issues/5 'got banned from the server (got hacked overnight??? idk)') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
-`[06/09 00:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5`](https://github.com//AutumnVN/usrbg/issues/5 'got banned from the server (got hacked overnight??? idk)') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
-`[06/09 00:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [AutumnVN/AutumnVN](https://github.com/AutumnVN/AutumnVN)  
 
 </details>
 <!--END_SECTION:activity-->
