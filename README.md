@@ -13,6 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[09/11 06:56]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#850`](https://github.com//Vencord/Vesktop/issues/850 '[Bug] Game Activity is disabled by default') in [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  
 `[09/11 02:18]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#8`](https://github.com//D3SOX/vc-betterActivities/pull/8 'fix tooltip') in [D3SOX/vc-betterActivities](https://github.com/D3SOX/vc-betterActivities)  
 `[09/11 02:11]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `master` from [AutumnVN/vc-betterActivities](https://github.com/AutumnVN/vc-betterActivities)  
 `[09/11 02:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`masterrrrrrrrrrrrrr`](https://github.com/AutumnVN/vc-betterActivities/tree/masterrrrrrrrrrrrrr) in [AutumnVN/vc-betterActivities](https://github.com/AutumnVN/vc-betterActivities)  
@@ -22,10 +23,10 @@
 `[09/04 23:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#16`](https://github.com//darkchii/score-inspector-extension/issues/16 'daily challenge is now hidden if there is no play') in [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension)  
 `[09/04 10:53]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#16`](https://github.com//darkchii/score-inspector-extension/issues/16 'daily challenge is now hidden if there is no play') in [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension)  
 `[09/02 12:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
-`[09/02 12:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 
 <details><summary>Show More</summary>
 
+`[09/02 12:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[09/02 07:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[09/02 04:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[08/29 11:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
@@ -131,8 +132,7 @@
 `[06/19 01:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2593`](https://github.com//Vendicated/Vencord/pull/2593 'doomsday fix: USRBG') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[06/19 01:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[06/19 01:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`usrbg`](https://github.com/AutumnVN/Vencord/tree/usrbg) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[06/16 03:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
-`[06/11 01:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
+`[06/16 03:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 
 </details>
 <!--END_SECTION:activity-->
