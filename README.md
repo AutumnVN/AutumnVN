@@ -125,10 +125,6 @@
 `[07/02 10:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//AutumnVN/userplugins/issues/2 'screen record plugin doesn\'t show in plugins and did pnpm build and all other plugins are showing') in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[07/02 10:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//AutumnVN/userplugins/issues/2 'screen record plugin doesn\'t show in plugins and did pnpm build and all other plugins are showing') in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[07/02 03:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
-`[07/01 13:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
-`[07/01 10:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
-`[07/01 07:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
-`[07/01 03:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 
 </details>
 <!--END_SECTION:activity-->
