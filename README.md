@@ -124,7 +124,7 @@
 `[07/02 10:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3`](https://github.com//AutumnVN/userplugins/issues/3 'also can you make a vencord version of the BD plugin PurgeMemory2') in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[07/02 10:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//AutumnVN/userplugins/issues/2 'screen record plugin doesn\'t show in plugins and did pnpm build and all other plugins are showing') in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[07/02 10:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//AutumnVN/userplugins/issues/2 'screen record plugin doesn\'t show in plugins and did pnpm build and all other plugins are showing') in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
-`[07/02 03:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
+`[07/02 03:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 
 </details>
 <!--END_SECTION:activity-->
