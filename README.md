@@ -13,7 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
-`[10/11 14:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
+`[10/12 00:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[10/10 07:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/ppcounter-overlay](https://github.com/AutumnVN/ppcounter-overlay)  
 `[10/10 03:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[10/10 02:15]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#16`](https://github.com//Team-BTMC/ppcounter-overlay/pull/16 'fix ingame overlay') in [Team-BTMC/ppcounter-overlay](https://github.com/Team-BTMC/ppcounter-overlay)  
