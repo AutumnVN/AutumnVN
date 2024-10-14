@@ -13,6 +13,7 @@
 ## 🕘 Recent activity:
 <a href="https://chino.pages.dev/discord"><img src="https://chino.pages.dev/lanyard" align="right"></a>
 <!--START_SECTION:activity-->
+`[10/14 06:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[10/13 10:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/ppcounter-overlay](https://github.com/AutumnVN/ppcounter-overlay)  
 `[10/13 04:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17`](https://github.com//Team-BTMC/ppcounter-overlay/pull/17 'fix first h100/h50 is sb & fix multi result screen got cleared') in [Team-BTMC/ppcounter-overlay](https://github.com/Team-BTMC/ppcounter-overlay)  
 `[10/13 04:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`fix`](https://github.com/AutumnVN/ppcounter-overlay/tree/fix) in [AutumnVN/ppcounter-overlay](https://github.com/AutumnVN/ppcounter-overlay)  
@@ -22,10 +23,10 @@
 `[10/12 14:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[10/12 10:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[10/12 03:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [AutumnVN/tosu](https://github.com/AutumnVN/tosu)  
-`[10/12 03:32]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tosuapp/tosu](https://github.com/tosuapp/tosu) to [AutumnVN/tosu](https://github.com/AutumnVN/tosu)  
 
 <details><summary>Show More</summary>
 
+`[10/12 03:32]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tosuapp/tosu](https://github.com/tosuapp/tosu) to [AutumnVN/tosu](https://github.com/AutumnVN/tosu)  
 `[10/12 00:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[10/10 07:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/ppcounter-overlay](https://github.com/AutumnVN/ppcounter-overlay)  
 `[10/10 03:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
