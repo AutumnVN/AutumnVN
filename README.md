@@ -111,9 +111,6 @@
 `[07/24 04:01]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension) to [AutumnVN/score-inspector-extension](https://github.com/AutumnVN/score-inspector-extension)  
 `[07/20 12:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension)  
 `[07/20 03:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
-`[07/14 10:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
-`[07/14 08:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/tosu-overlay](https://github.com/AutumnVN/tosu-overlay)  
-`[07/14 04:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 
 </details>
 <!--END_SECTION:activity-->
