@@ -117,7 +117,6 @@
 `[07/24 04:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/score-inspector-extension](https://github.com/AutumnVN/score-inspector-extension)  
 `[07/24 04:01]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension) to [AutumnVN/score-inspector-extension](https://github.com/AutumnVN/score-inspector-extension)  
 `[07/20 12:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [darkchii/score-inspector-extension](https://github.com/darkchii/score-inspector-extension)  
-`[07/20 03:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 
 </details>
 <!--END_SECTION:activity-->
