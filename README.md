@@ -125,7 +125,6 @@
 `[08/22 06:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[08/20 23:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[08/20 03:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
-`[08/19 02:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
 
 </details>
 <!--END_SECTION:activity-->
