@@ -13,6 +13,7 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
+`[11/26 00:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[11/21 13:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/beatmap](https://github.com/AutumnVN/beatmap)  
 `[11/21 01:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[11/18 01:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/AutumnVN/beatmap/tree/main) in [AutumnVN/beatmap](https://github.com/AutumnVN/beatmap)  
@@ -22,10 +23,10 @@
 `[11/15 05:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[11/15 01:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[11/14 01:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
-`[11/13 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 
 <details><summary>Show More</summary>
 
+`[11/13 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[11/13 06:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/ppcounter-overlay](https://github.com/AutumnVN/ppcounter-overlay)  
 `[11/13 01:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[11/10 06:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
