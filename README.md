@@ -13,7 +13,7 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-`[12/02 08:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/beatmap](https://github.com/AutumnVN/beatmap)  
+`[12/02 10:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/beatmap](https://github.com/AutumnVN/beatmap)  
 `[12/02 05:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
 `[12/01 14:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/beatmap](https://github.com/AutumnVN/beatmap)  
 `[12/01 07:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/Navi](https://github.com/AutumnVN/Navi)  
