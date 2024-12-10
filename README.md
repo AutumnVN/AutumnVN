@@ -126,7 +126,6 @@
 `[09/11 02:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`masterrrrrrrrrrrrrr`](https://github.com/AutumnVN/vc-betterActivities/tree/masterrrrrrrrrrrrrr) in [AutumnVN/vc-betterActivities](https://github.com/AutumnVN/vc-betterActivities)  
 `[09/11 02:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/vc-betterActivities](https://github.com/AutumnVN/vc-betterActivities)  
 `[09/11 02:08]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [D3SOX/vc-betterActivities](https://github.com/D3SOX/vc-betterActivities) to [AutumnVN/vc-betterActivities](https://github.com/AutumnVN/vc-betterActivities)  
-`[09/10 02:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 
 </details>
 <!--END_SECTION:activity-->
