@@ -118,9 +118,6 @@
 `[10/02 00:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 `[10/01 15:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[10/01 10:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
-`[09/30 01:28]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#13`](https://github.com//Team-BTMC/ppcounter-overlay/pull/13 'ingame overlay compatible') in [Team-BTMC/ppcounter-overlay](https://github.com/Team-BTMC/ppcounter-overlay)  
-`[09/30 01:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`ingame`](https://github.com/AutumnVN/ppcounter-overlay/tree/ingame) in [AutumnVN/ppcounter-overlay](https://github.com/AutumnVN/ppcounter-overlay)  
-`[09/30 01:14]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Team-BTMC/ppcounter-overlay](https://github.com/Team-BTMC/ppcounter-overlay) to [AutumnVN/ppcounter-overlay](https://github.com/AutumnVN/ppcounter-overlay)  
 
 </details>
 <!--END_SECTION:activity-->
