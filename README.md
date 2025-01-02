@@ -117,7 +117,6 @@
 `[10/02 03:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/osu-mpbd](https://github.com/AutumnVN/osu-mpbd)  
 `[10/02 02:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/AutumnVN/osu-mpbd/tree/main) in [AutumnVN/osu-mpbd](https://github.com/AutumnVN/osu-mpbd)  
 `[10/02 02:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [AutumnVN/osu-mpbd](https://github.com/AutumnVN/osu-mpbd)  
-`[10/02 00:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 
 </details>
 <!--END_SECTION:activity-->
