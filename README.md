@@ -114,9 +114,6 @@
 `[10/05 12:25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`fix`](https://github.com/AutumnVN/osu-radio/tree/fix) in [AutumnVN/osu-radio](https://github.com/AutumnVN/osu-radio)  
 `[10/05 12:24]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Team-BTMC/osu-radio](https://github.com/Team-BTMC/osu-radio) to [AutumnVN/osu-radio](https://github.com/AutumnVN/osu-radio)  
 `[10/04 13:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
-`[10/02 03:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/osu-mpbd](https://github.com/AutumnVN/osu-mpbd)  
-`[10/02 02:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/AutumnVN/osu-mpbd/tree/main) in [AutumnVN/osu-mpbd](https://github.com/AutumnVN/osu-mpbd)  
-`[10/02 02:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [AutumnVN/osu-mpbd](https://github.com/AutumnVN/osu-mpbd)  
 
 </details>
 <!--END_SECTION:activity-->
