@@ -113,7 +113,6 @@
 `[10/05 12:28]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#28`](https://github.com//Team-BTMC/osu-radio/pull/28 'fixes') in [Team-BTMC/osu-radio](https://github.com/Team-BTMC/osu-radio)  
 `[10/05 12:25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`fix`](https://github.com/AutumnVN/osu-radio/tree/fix) in [AutumnVN/osu-radio](https://github.com/AutumnVN/osu-radio)  
 `[10/05 12:24]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Team-BTMC/osu-radio](https://github.com/Team-BTMC/osu-radio) to [AutumnVN/osu-radio](https://github.com/AutumnVN/osu-radio)  
-`[10/04 13:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/themes](https://github.com/AutumnVN/themes)  
 
 </details>
 <!--END_SECTION:activity-->
