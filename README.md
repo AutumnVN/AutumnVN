@@ -109,7 +109,6 @@
 `[10/09 12:35]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Team-BTMC/ppcounter-overlay](https://github.com/Team-BTMC/ppcounter-overlay) to [AutumnVN/ppcounter-overlay](https://github.com/AutumnVN/ppcounter-overlay)  
 `[10/09 03:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 `[10/08 08:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#14`](https://github.com//Team-BTMC/ppcounter-overlay/pull/14 'Feature hit judgements') in [Team-BTMC/ppcounter-overlay](https://github.com/Team-BTMC/ppcounter-overlay)  
-`[10/08 05:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/userplugins](https://github.com/AutumnVN/userplugins)  
 
 </details>
 <!--END_SECTION:activity-->
