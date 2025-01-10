@@ -13,7 +13,7 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-`[01/10 08:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `22` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
+`[01/10 09:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
 `[12/30 10:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[12/30 00:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
 `[12/29 15:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`1.20.1`](https://github.com/AutumnVN/autumn/tree/1.20.1) in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
@@ -99,7 +99,6 @@
 `[10/12 03:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [AutumnVN/tosu](https://github.com/AutumnVN/tosu)  
 `[10/12 03:32]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tosuapp/tosu](https://github.com/tosuapp/tosu) to [AutumnVN/tosu](https://github.com/AutumnVN/tosu)  
 `[10/12 00:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
-`[10/10 07:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/ppcounter-overlay](https://github.com/AutumnVN/ppcounter-overlay)  
 
 </details>
 <!--END_SECTION:activity-->
