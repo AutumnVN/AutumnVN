@@ -104,9 +104,6 @@
 `[10/10 02:15]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#16`](https://github.com//Team-BTMC/ppcounter-overlay/pull/16 'fix ingame overlay') in [Team-BTMC/ppcounter-overlay](https://github.com/Team-BTMC/ppcounter-overlay)  
 `[10/10 02:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`fix`](https://github.com/AutumnVN/ppcounter-overlay/tree/fix) in [AutumnVN/ppcounter-overlay](https://github.com/AutumnVN/ppcounter-overlay)  
 `[10/10 02:14]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Team-BTMC/ppcounter-overlay](https://github.com/Team-BTMC/ppcounter-overlay) to [AutumnVN/ppcounter-overlay](https://github.com/AutumnVN/ppcounter-overlay)  
-`[10/09 12:37]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#15`](https://github.com//Team-BTMC/ppcounter-overlay/pull/15 'fix hit judgement') in [Team-BTMC/ppcounter-overlay](https://github.com/Team-BTMC/ppcounter-overlay)  
-`[10/09 12:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`fix`](https://github.com/AutumnVN/ppcounter-overlay/tree/fix) in [AutumnVN/ppcounter-overlay](https://github.com/AutumnVN/ppcounter-overlay)  
-`[10/09 12:35]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Team-BTMC/ppcounter-overlay](https://github.com/Team-BTMC/ppcounter-overlay) to [AutumnVN/ppcounter-overlay](https://github.com/AutumnVN/ppcounter-overlay)  
 
 </details>
 <!--END_SECTION:activity-->
