@@ -13,6 +13,9 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
+`[01/13 13:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/hit-swap-nerf](https://github.com/AutumnVN/hit-swap-nerf)  
+`[01/13 13:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/AutumnVN/hit-swap-nerf/tree/main) in [AutumnVN/hit-swap-nerf](https://github.com/AutumnVN/hit-swap-nerf)  
+`[01/13 13:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [AutumnVN/hit-swap-nerf](https://github.com/AutumnVN/hit-swap-nerf)  
 `[01/10 13:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `30` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
 `[12/30 10:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[12/30 00:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
@@ -20,12 +23,12 @@
 `[12/29 14:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
 `[12/29 03:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[12/28 05:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
-`[12/26 01:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
-`[12/25 07:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
-`[12/17 09:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 
 <details><summary>Show More</summary>
 
+`[12/26 01:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
+`[12/25 07:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
+`[12/17 09:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[12/15 01:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [AutumnVN/beatmap](https://github.com/AutumnVN/beatmap)  
 `[12/09 12:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/userscript](https://github.com/AutumnVN/userscript)  
 `[12/09 10:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/AutumnVN/userscript/tree/main) in [AutumnVN/userscript](https://github.com/AutumnVN/userscript)  
