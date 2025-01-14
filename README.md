@@ -13,6 +13,7 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
+`[01/14 06:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/hit-swap-fix](https://github.com/AutumnVN/hit-swap-fix)  
 `[01/14 00:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
 `[01/14 00:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/hit-swap-nerf](https://github.com/AutumnVN/hit-swap-nerf)  
 `[01/13 13:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/AutumnVN/hit-swap-nerf/tree/main) in [AutumnVN/hit-swap-nerf](https://github.com/AutumnVN/hit-swap-nerf)  
@@ -22,10 +23,10 @@
 `[12/30 00:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
 `[12/29 15:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`1.20.1`](https://github.com/AutumnVN/autumn/tree/1.20.1) in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
 `[12/29 14:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
-`[12/29 03:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 
 <details><summary>Show More</summary>
 
+`[12/29 03:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[12/28 05:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
 `[12/26 01:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
 `[12/25 07:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
