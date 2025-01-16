@@ -90,8 +90,6 @@
 `[10/16 02:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/chino.pages.dev](https://github.com/AutumnVN/chino.pages.dev)  
 `[10/16 00:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/tosu](https://github.com/AutumnVN/tosu)  
 `[10/16 00:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/bot](https://github.com/AutumnVN/bot)  
-`[10/15 12:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [AutumnVN/tosu](https://github.com/AutumnVN/tosu)  
-`[10/15 11:53]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tosuapp/tosu](https://github.com/tosuapp/tosu) to [AutumnVN/tosu](https://github.com/AutumnVN/tosu)  
 
 </details>
 <!--END_SECTION:activity-->
