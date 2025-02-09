@@ -37,7 +37,6 @@
 `[01/14 00:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/hit-swap-nerf](https://github.com/AutumnVN/hit-swap-nerf)  
 `[01/13 13:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/AutumnVN/hit-swap-nerf/tree/main) in [AutumnVN/hit-swap-nerf](https://github.com/AutumnVN/hit-swap-nerf)  
 `[01/13 13:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [AutumnVN/hit-swap-nerf](https://github.com/AutumnVN/hit-swap-nerf)  
-`[01/10 13:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
 
 </details>
 <!--END_SECTION:activity-->
