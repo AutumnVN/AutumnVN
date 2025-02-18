@@ -29,9 +29,6 @@
 `[01/22 09:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3159`](https://github.com//Vendicated/Vencord/pull/3159 'customRPC: fix preview') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[01/22 09:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`rpc`](https://github.com/AutumnVN/Vencord/tree/rpc) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 `[01/22 09:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Vendicated/Vencord](https://github.com/Vendicated/Vencord) to [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[01/19 07:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/osu-igdl](https://github.com/AutumnVN/osu-igdl)  
-`[01/19 07:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/osu-ubu](https://github.com/AutumnVN/osu-ubu)  
-`[01/19 07:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/osu-mpbd](https://github.com/AutumnVN/osu-mpbd)  
 
 </details>
 <!--END_SECTION:activity-->
