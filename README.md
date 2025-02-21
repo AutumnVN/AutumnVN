@@ -24,11 +24,5 @@
 `[01/23 00:23]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#3159`](https://github.com//Vendicated/Vencord/pull/3159 'customRPC: fix preview') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[01/23 00:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
 
-<details><summary>Show More</summary>
-
-`[01/22 09:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3159`](https://github.com//Vendicated/Vencord/pull/3159 'customRPC: fix preview') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[01/22 09:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`rpc`](https://github.com/AutumnVN/Vencord/tree/rpc) in [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-`[01/22 09:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Vendicated/Vencord](https://github.com/Vendicated/Vencord) to [AutumnVN/Vencord](https://github.com/AutumnVN/Vencord)  
-
 </details>
 <!--END_SECTION:activity-->
