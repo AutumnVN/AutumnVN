@@ -17,7 +17,6 @@
 `[02/04 13:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 `[02/04 13:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8`](https://github.com//AutumnVN/usrbg/pull/8 'Update readme bc the channel moved') in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 `[02/04 13:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [blu3berryys/usrbg](https://github.com/blu3berryys/usrbg)  
-`[01/31 06:38]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`1.21.1`](https://github.com/AutumnVN/hit-swap-fix/tree/1.21.1) in [AutumnVN/hit-swap-fix](https://github.com/AutumnVN/hit-swap-fix)  
 
 </details>
 <!--END_SECTION:activity-->
