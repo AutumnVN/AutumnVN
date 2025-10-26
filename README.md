@@ -14,7 +14,6 @@
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
 `[10/19 04:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
-`[09/26 01:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [AutumnVN/ba2jp](https://github.com/AutumnVN/ba2jp)  
 
 </details>
 <!--END_SECTION:activity-->
