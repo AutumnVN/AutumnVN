@@ -13,9 +13,9 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-`[10/31 14:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [AutumnVN/StellaSoraData](https://github.com/AutumnVN/StellaSoraData)  
+`[11/01 09:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [AutumnVN/StellaSoraData](https://github.com/AutumnVN/StellaSoraData)  
 `[10/30 07:41]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [AutumnVN/StellaSoraData](https://github.com/AutumnVN/StellaSoraData) to [AutumnVN/StellaSoraData](https://github.com/AutumnVN/StellaSoraData)  
-`[10/19 04:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
+`[10/19 04:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [AutumnVN/autumn](https://github.com/AutumnVN/autumn)  
 
 </details>
 <!--END_SECTION:activity-->
