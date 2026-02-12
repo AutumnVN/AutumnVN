@@ -59,8 +59,6 @@
 `[01/17 02:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [AutumnVN/stelladb](https://github.com/AutumnVN/stelladb)  
 `[01/15 06:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [AutumnVN/StellaSoraData](https://github.com/AutumnVN/StellaSoraData)  
 `[01/13 14:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [AutumnVN/stelladb](https://github.com/AutumnVN/stelladb)  
-`[01/13 11:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [AutumnVN/ssassets](https://github.com/AutumnVN/ssassets)  
-`[01/13 09:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [AutumnVN/stelladb](https://github.com/AutumnVN/stelladb)  
 
 </details>
 <!--END_SECTION:activity-->
