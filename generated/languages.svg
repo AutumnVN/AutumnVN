@@ -129,7 +129,7 @@
 
           <div>
             <span class="progress">
-              <span style="background-color: #3178c6;width: 36.101%;" class="progress-item"></span><span style="background-color: #ff5a03;width: 24.746%;" class="progress-item"></span><span style="background-color: #b07219;width: 10.097%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 8.575%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 6.113%;" class="progress-item"></span><span style="background-color: #e34c26;width: 6.087%;" class="progress-item"></span><span style="background-color: #663399;width: 3.502%;" class="progress-item"></span><span style="background-color: #3572A5;width: 2.502%;" class="progress-item"></span><span style="background-color: #178600;width: 2.085%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.104%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.060%;" class="progress-item"></span><span style="background-color: #555555;width: 0.011%;" class="progress-item"></span><span style="background-color: #012456;width: 0.009%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.007%;" class="progress-item"></span>
+              <span style="background-color: #3178c6;width: 36.093%;" class="progress-item"></span><span style="background-color: #ff5a03;width: 24.764%;" class="progress-item"></span><span style="background-color: #b07219;width: 10.094%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 8.573%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 6.111%;" class="progress-item"></span><span style="background-color: #e34c26;width: 6.086%;" class="progress-item"></span><span style="background-color: #663399;width: 3.502%;" class="progress-item"></span><span style="background-color: #3572A5;width: 2.501%;" class="progress-item"></span><span style="background-color: #178600;width: 2.085%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.104%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.060%;" class="progress-item"></span><span style="background-color: #555555;width: 0.011%;" class="progress-item"></span><span style="background-color: #012456;width: 0.009%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.007%;" class="progress-item"></span>
             </span>
           </div>
 
@@ -140,7 +140,7 @@
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">36.10%</span>
+<span class="percent">36.09%</span>
 </li>
 
 
@@ -149,7 +149,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Astro</span>
-<span class="percent">24.75%</span>
+<span class="percent">24.76%</span>
 </li>
 
 
@@ -158,7 +158,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Java</span>
-<span class="percent">10.10%</span>
+<span class="percent">10.09%</span>
 </li>
 
 
@@ -167,7 +167,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">8.58%</span>
+<span class="percent">8.57%</span>
 </li>
 
 
@@ -212,7 +212,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">C#</span>
-<span class="percent">2.09%</span>
+<span class="percent">2.08%</span>
 </li>
 
 
