@@ -71,7 +71,6 @@
 `[01/29 01:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [AutumnVN/StellaSoraData](https://github.com/AutumnVN/StellaSoraData)  
 `[01/27 04:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [AutumnVN/stelladb](https://github.com/AutumnVN/stelladb)  
 `[01/26 13:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [AutumnVN/HytaleSP](https://github.com/AutumnVN/HytaleSP)  
-`[01/26 05:52]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [LiEnby/HytaleSP](https://github.com/LiEnby/HytaleSP) to [AutumnVN/HytaleSP](https://github.com/AutumnVN/HytaleSP)  
 
 </details>
 <!--END_SECTION:activity-->
