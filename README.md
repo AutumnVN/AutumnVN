@@ -61,7 +61,6 @@
 `[02/03 04:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [AutumnVN/StellaSoraData](https://github.com/AutumnVN/StellaSoraData)  
 `[02/03 00:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`2b776e4`](https://github.com/AutumnVN/usrbg/commit/2b776e4cffad0e69da0b35274d8c2935be50cf60#commitcomment-176238229) in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
 `[02/03 00:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [AutumnVN/usrbg](https://github.com/AutumnVN/usrbg)  
-`[02/02 09:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [AutumnVN/StellaSoraData](https://github.com/AutumnVN/StellaSoraData)  
 
 </details>
 <!--END_SECTION:activity-->
